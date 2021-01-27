@@ -20,7 +20,7 @@ display : none!important;
 z-index: 90;
 font-size: 24px;
 line-height: 30px;
-
+/* display: flex; */
 justify-content: center;
 align-items: center;
 position:  fixed;
