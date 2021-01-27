@@ -11,7 +11,7 @@ const Home: React.FunctionComponent<HomeProps> = () => {
         <Layout>
             <Header/>
             <Hero/>
-            <Footer/>
+            
         </Layout> 
     );
 }
