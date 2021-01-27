@@ -16,7 +16,7 @@ export default Info;
 
 
 const InfoComp = styled.div`
-display : none;
+display : none!important;
 z-index: 90;
 font-size: 24px;
 line-height: 30px;
