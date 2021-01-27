@@ -12,7 +12,7 @@ const Header: React.FunctionComponent<HeaderProps> = () => {
  <a href='/' className="flex items-center w-40 mb-4 font-medium text-gray-900 title-font md:mb-0">
  <Logo/>
  </a>
- <nav className="flex flex-wrap items-center justify-center ml-4 text-base">
+ <nav className="d-none md:flex flex-wrap items-center justify-center ml-4 text-base">
      <a href="#"
          className="cursor-pointer	 mr-5 text-sm font-semibold text-gray-700 rounded-xl hover:text-red-800 uppercase">Home</a>
      <a href="#"
